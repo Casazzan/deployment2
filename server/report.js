@@ -16,16 +16,16 @@ const pool = new Pool({
 
 /**
  * - Sales Report <br>
- * Route: http://localhost:5000/report/sales <br>
+ * Route: https://panda-express-deployment-3.onrender.com/report/sales <br>
  *  <br>
  * - Excess Report <br>
- * Route: http://localhost:5000/report/excess?startDate={Date}&endDate={Date} <br>
+ * Route: https://panda-express-deployment-3.onrender.com/report/excess?startDate={Date}&endDate={Date} <br>
  *  <br>
  * - Restock Report <br>
- * Route: http://localhost:5000/report/restock <br>
+ * Route: https://panda-express-deployment-3.onrender.com/report/restock <br>
  *  <br>
  * - Sells Together <br>
- * Route: http://localhost:5000/report/sells_together?startDate={Date}&endDate={Date}
+ * Route: https://panda-express-deployment-3.onrender.com/report/sells_together?startDate={Date}&endDate={Date}
  * @module
  */
 
